@@ -73,7 +73,7 @@ footer{margin-top:96px;border-top:1px solid var(--line);padding:32px 0 48px;colo
 footer .wrap{display:flex;flex-wrap:wrap;gap:16px 32px;justify-content:space-between}
 
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:32px;margin-top:32px}
-figure video{width:100%;display:block;background:#000;aspect-ratio:16/9;border:1px solid var(--line)}
+figure iframe{width:100%;display:block;background:#000;aspect-ratio:16/9;border:1px solid var(--line)}
 figcaption{padding:10px 0;font-weight:500}
 figcaption small{display:block;color:var(--mute);font-weight:400}
 .empty{border:1px dashed var(--line);padding:32px;color:var(--mute);max-width:60ch}
